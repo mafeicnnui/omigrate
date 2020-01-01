@@ -1,0 +1,9 @@
+USERID="puppet/U2h7FliaezODyW18bbTo"
+directory=tcsvbs_dump
+TABLE_EXISTS_ACTION=APPEND
+EXCLUDE=GRANT
+REMAP_SCHEMA=tcsvbs:tcsvbs
+dumpfile=tcsvbs_LNSOVDCHARGELIST_HIS_20180425_201712~201712_expdp.dmp
+logfile =tcsvbs_LNSOVDCHARGELIST_HIS_20180425_201712~201712_impdp.log
+parallel=4
+cluster=no

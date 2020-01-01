@@ -1,0 +1,7 @@
+userid="puppet/U2h7FliaezODyW18bbTo"
+directory=tcsvbs_dump
+network_link=dblink_tcsvbs
+dumpfile=tcsvbs_LNSOVDCHARGELIST_HIS_20180425_201712~201712_expdp.dmp
+logfile =tcsvbs_LNSOVDCHARGELIST_HIS_20180425_201712~201712_expdp.log
+tables=tcsvbs.LNSOVDCHARGELIST_HIS:PAR_201712_1,tcsvbs.LNSOVDCHARGELIST_HIS:PAR_201712_2
+cluster=no

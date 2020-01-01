@@ -1,0 +1,7 @@
+userid=@USER
+directory=@DUMP
+network_link=@DBLINK
+dumpfile=@OWNER_@TABLE_@DATE_@MONTHS_expdp.dmp
+logfile =@OWNER_@TABLE_@DATE_@MONTHS_expdp.log
+tables=@EXP_TAB_PART
+cluster=no
